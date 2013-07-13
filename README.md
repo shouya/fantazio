@@ -1,4 +1,4 @@
 fantazio
 ========
 
-a conceptual single process operating system with FP paradigm.
+a conceptual single process operating system in FP paradigm.
